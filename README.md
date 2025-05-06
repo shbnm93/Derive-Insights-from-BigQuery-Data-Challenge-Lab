@@ -6,7 +6,7 @@ https://www.cloudskillsboost.google/paths/18/course_templates/623/labs/503675
 
 
 Video Link:
-
+https://youtu.be/rO1I0cB6SEY
 
 You must complete a series of tasks within the allocated time period. Instead of following step-by-step instructions, you'll be given a scenario and a set of tasks - you figure out how to complete it on your own! An automated scoring system (shown on this page) will provide feedback on whether you have completed your tasks correctly.
 
